@@ -1,6 +1,6 @@
 # EcoleDirecte MCP Server
 
-A Model Context Protocol (MCP) server that integrates with Claude Desktop to retrieve homework assignments and messages from the French educational platform EcoleDirecte (www.ecoledirecte.com).
+A Model Context Protocol (MCP) server that integrates with Claude Desktop and any other MCP-compatible application (such as [AnythingLLM](https://docs.anythingllm.com/mcp-compatibility/overview)) to retrieve homework assignments and messages from the French educational platform EcoleDirecte.
 
 ## Features
 
